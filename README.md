@@ -16,6 +16,4 @@ $E(v_kv^T_j)=R_k\delta_{k-j} $<br><br>
 3)Uncorrelation of measurement noise with dynamical noise <br><br>
 $E(w_kv^T_j)=0 $<br><br>
 
-**the Prediction:**<br><br>
 
-$\hat{x}^-_k= F_{k-1}\hat{x}^+_{k-1}$<br>
